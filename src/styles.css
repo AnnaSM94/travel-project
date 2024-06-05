@@ -262,8 +262,14 @@ footer h3 {
     padding: 30px;
   }
 
-  .card-header {
+  .card-header img {
     display: none;
+  }
+
+  iframe.instagram-media {
+    max-width: 100% !important;
+    width: 100% !important;
+    min-width: auto !important;
   }
 
   .embed {
